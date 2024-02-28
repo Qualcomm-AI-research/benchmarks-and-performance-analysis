@@ -1,0 +1,7 @@
+# Copyright (c) 2023 Qualcomm Technologies, Inc.
+# All Rights Reserved.
+
+Import("*")
+
+SimObject("HelloObject.py", sim_objects=["HelloObject"])
+Source("hello_object.cc")

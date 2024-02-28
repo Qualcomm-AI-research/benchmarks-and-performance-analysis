@@ -1,0 +1,7 @@
+ipython==8.12.2
+matplotlib==3.7.1
+hmmlearn==0.3.0
+statsmodels==0.14.0
+numpy==1.24.3
+pdbpp==0.10.3
+tqdm==4.65.0

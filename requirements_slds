@@ -1,0 +1,8 @@
+autograd==1.6.2
+Cython==0.24
+future==0.18.3
+ipython==5.10.0
+matplotlib==2.2.5
+numpy==1.16.6
+requests==2.27.1
+scipy==1.2.3
